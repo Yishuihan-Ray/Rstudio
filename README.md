@@ -1,3 +1,3 @@
 # Rstudio
 
-This file include my R projects.
+This folder contains my R projects.
